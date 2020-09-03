@@ -7,6 +7,10 @@ A minecraft plugin to add extra recipes including a recall potion, elytra, encha
 > 3. Restart server
 > 4. Play!
 
+# Custom Items
+- *Recall Potion*
+-- Inspiration from Terraria! If you drink this potion and have a bed spawn location set you are teleported to such location. If you do not have a bed spawn location, the potion will not be consumed.
+
 # Recipes
 *Recall Potion*
 - " D " (D - Diamond)
