@@ -19,4 +19,4 @@ A minecraft plugin to add extra recipes including a recall potion, elytra, encha
 - "FEF" (F - Fire Charge, E - Ender Pearl)
 
 *Enchanted Golden Apple*
-The old recipe for the Gapple has been restored with a slight modification. 1 Golden Apple (instead of a regular apple like the true old recipe) surrounded by 8 block of Gold.
+- The old recipe for the Gapple has been restored with a slight modification. 1 Golden Apple (instead of a regular apple like the true old recipe) surrounded by 8 block of Gold.
